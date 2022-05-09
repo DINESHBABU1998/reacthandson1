@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(
+    lightblue,
+    pink,
+    lightyellow);
+    height: 100vh;
+}
+.but1{
+    background-color: lightblue;
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    cursor: pointer;
+}
+.but2{
+    background-color:lightblue;
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+    cursor: pointer;
+}
+.container1{
+   background-color: aqua;
+   height: 300px;
+   width: 550px;
+   border: 2px solid black;
+   border-radius: 25px;
+   position: absolute;
+   top: 250px;
+   left: 100px;
+}
+.container2{
+    background-color: purple;
+    height: 300px;
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 25px;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+ }
